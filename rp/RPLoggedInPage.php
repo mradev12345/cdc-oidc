@@ -87,7 +87,7 @@
     <body>
         <div class="" id="main_wrapper">
         <div class="" id="logoDiv">
-            <a href="https://localhost/cdc-oidc/rp/RPIndexPage.html">
+            <a href="https://mradev12345.github.io/cdc-oidc/rp/RPIndexPage.html">
                 <img src="theme/img/GigyaLogo_2016-05-04.png" />
             </a>
         </div>
